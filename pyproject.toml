@@ -1,1 +1,12 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
 
+[project]
+name = "calculadora-ci"
+version = "0.1.0"
+description = "Biblioteca de calculadora"
+authors = [
+  {name="4DSM"}
+]
+dependencies = []
